@@ -27,6 +27,7 @@
     - pop_back은 벡터의 마지막 원소를 제거 합니다. 만약 제거할 원소가 없다면 아무 동작도 하지 않으며, 인자 및 반환값은 없습니다.
     - size는 인자가 없고 현재 원소의 개수를 반환합니다.
     - capacity 현재 내부 배열의 크기를 반환합니다.
+    - 
    ![image](https://github.com/user-attachments/assets/22df9ace-cc92-4445-ba57-830528e0e760)
 
 
@@ -41,4 +42,5 @@
     - sortData는 내부 데이터를 정렬하는 함수 입니다. 직접 정렬하지 않고 STL의 sort함수를 활용해서 정렬 합니다.
     
     구현을 한 뒤에 클래스의 구조는 아래와 같습니다.
+  
   ![image](https://github.com/user-attachments/assets/d5a3488f-335d-4d70-b470-b3eb5173415c)
